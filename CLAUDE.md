@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for [Noelia]
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for [Noelia Fallas], helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,65 +16,63 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Name:** [Noelia Fallas Bermúdez]
+- **Location:** [Cariari], [Costa Rica] ([remoto, híbrido])
+- **Languages:** [Español (nativo), Inglés (B1)]
+- **Status:** [Estudiante]
+- **LinkedIn headline:** "[[YOUR_LINKEDIN_HEADLINE](https://www.linkedin.com/in/noelia-fallas-bermudez-49aaba307/?skipRedirect=true)]"
 
 ### Education
 <!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- **[Ingeniería] in [Sistemas de Información]** ([2021]-[2026]) - [Universidad Nacional (UNA), Campus Sarapiquí]
+  - Thesis: "[Aroma Perfumería" — sitio web para una perfumería]"
+  - Topics: [ desarrollo web full-stack, bases de datos, infraestructura web, programación concurrente]
 
-### Professional Experience
+### Projects
 <!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **[ Sitio web para perfumería (proyecto)]** ([START_DATE] - [END_DATE]) - **[Proyecto académico]** ([Costa Rica])
+  - [E-commerce con Laravel y PHP: catálogo, favoritos, login/perfil, carrito, pasarela de pago y flujo de compra completo]
+  - [ Panel administrativo para la gestión del sitio]
+  - [Historias de usuario en Jira y control de versiones con Git]
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** [PHP / Laravel (intermedio), Java (intermedio), C++ (intermedio)]
+- **Secondary:** [Kotlin, C#, MySQL (básico)]
+- **Domain:** [desarrollo web full-stack, e-commerce, desarrollo móvil]
+- **Software:** [Git, Jira]
 
 ### Certifications
 <!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **[ Scrum Fundamentals Certified — ScrumStudy]**  completed [2026]
 
 ### Publications
 <!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
-
+N/A
 ### Awards
 <!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+N/A
 
 ### Behavioral Profile
 <!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+- **[Constructora / orientada a resultados]** - [motivada por crear soluciones reales que se usen de verdad]
+- **[Resolutiva y persistente]** - [aborda los problemas de frente y no los suelta hasta terminarlos]
+- **Strengths:** [resolución de problemas, orden y detalle, aprendizaje rápido, persistencia]
+- **Growth areas:** [inglés (B1, en mejora); experiencia profesional en equipo (en construcción)]
+- **Thrives in:** [ambientes que mezclan trabajo autónomo con colaboración en equipo]
 
 ### What Excites You
 <!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- [construir productos que la gente use de verdad]
+- [aprender y crecer técnicamente, y ayudar a la gente con soluciones]
 
 ### Target Sectors
 <!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- [SECTOR_1]: [Desarrollo web / E-commerce: agencias digitales, software a la medida, startups]
+- [SECTOR_2]: [esarrollo de apps móviles: fábricas de software, productos digitales]
 
 ### Deal-breakers
 <!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- [Puestos presenciales lejos de su zona]
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
